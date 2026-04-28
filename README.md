@@ -3,7 +3,7 @@
 A responsive **HTML + CSS + Bootstrap web project** featuring a modern gaming gear landing page with sections like banner, products, services, stats, and contact.  
 Built for practice and portfolio showcase using frontend technologies.
 
----
+--- 
 
 ## 🚀 Features
 
