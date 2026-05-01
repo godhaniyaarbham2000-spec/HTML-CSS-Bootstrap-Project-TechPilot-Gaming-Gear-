@@ -30,7 +30,7 @@ Built for practice and portfolio showcase using frontend technologies.
 
 ## 📂 Project Structure
 ```
-PROJECT HTML+CSS+Bootstrap (TechPilot - Gaming Gear)/
+HTML-CSS-Bootstrap-Project-TechPilot-Gaming-Gear/
 │
 ├── index.html
 │
@@ -55,13 +55,13 @@ PROJECT HTML+CSS+Bootstrap (TechPilot - Gaming Gear)/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/techpilot-gaming-website.git
+git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-Bootstrap-Project-TechPilot-Gaming-Gear.git
 ```
 
 Open project folder:
 
 ```
-cd techpilot-gaming-website
+cd HTML-CSS-Bootstrap-Project-TechPilot-Gaming-Gear
 ```
 
 Run project:
